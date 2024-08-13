@@ -1,8 +1,10 @@
 # **Welcome to sandra-sandbox!**
 
-Hello, everyone! I am Sandra who is currently passionate in delving the opportunities lying in the data field deeper.
-I am a highly curious person who likes to learn something new.
-That's why, I think I want to give a try on working personal data science projects to gain more familiarity with the tools as well as ideas in the future.
+Hi everyone! 
+I'm Sandra an Industrial Engineer, and I'm excited about diving deeper into the world of data. 
+As a curious learner, I'm eager to expand my knowledge and skills. 
+To achieve this, I'm taking on personal data science projects to gain hands-on experience with industry tools and develop innovative ideas.
+
 
 So, please freely have a look on my works and I am open for your feedbacks as well!
 
